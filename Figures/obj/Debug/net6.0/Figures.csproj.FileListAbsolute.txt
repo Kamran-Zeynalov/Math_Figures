@@ -1,0 +1,15 @@
+C:\Users\kzeyn\source\repos\Figures\Figures\bin\Debug\net6.0\Figures.exe
+C:\Users\kzeyn\source\repos\Figures\Figures\bin\Debug\net6.0\Figures.deps.json
+C:\Users\kzeyn\source\repos\Figures\Figures\bin\Debug\net6.0\Figures.runtimeconfig.json
+C:\Users\kzeyn\source\repos\Figures\Figures\bin\Debug\net6.0\Figures.dll
+C:\Users\kzeyn\source\repos\Figures\Figures\bin\Debug\net6.0\Figures.pdb
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.csproj.AssemblyReference.cache
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.AssemblyInfoInputs.cache
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.AssemblyInfo.cs
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.csproj.CoreCompileInputs.cache
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.dll
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\refint\Figures.dll
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.pdb
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\Figures.genruntimeconfig.cache
+C:\Users\kzeyn\source\repos\Figures\Figures\obj\Debug\net6.0\ref\Figures.dll
