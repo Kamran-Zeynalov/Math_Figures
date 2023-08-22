@@ -9,19 +9,19 @@ namespace Figures
     internal static class GeometryHelper
     {
         //----------------
-        public static int Quadrilateral(int width, int length)
+        public static int Area(int width, int length)
         {
             if (width < 0 || length < 0) return 0;
             return width * length;
         }
         //----------------
-        public static int Triangular(int bottomSet, int height)
+        public static int Area(int a, int b, int c)
         {
-            if (bottomSet < 0 || height < 0) return 0;
-            return (bottomSet * height) / 2;
+            if (a < 0 || b < 0 || c < 0) return 0;
+            return (a + b + c) / 2;
         }
         //----------------
-        public static double Circle(double radius)
+        public static double Area(double radius)
         {
             if (radius < 0) return 0;
             double pi = Math.PI;
